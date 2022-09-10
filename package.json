@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "deploy": "ng deploy --base-href=/",
-    "test": "ng test"
+    "test": "ng test --watch false"
   },
   "private": true,
   "dependencies": {
@@ -36,6 +36,7 @@
     "karma-coverage": "~2.0.3",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
+    "puppeteer": "^17.1.3",
     "typescript": "~4.8.3"
   }
 }
