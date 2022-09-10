@@ -33,6 +33,6 @@ jobs:
       uses: actions/upload-pages-artifact@v1.0.4
       with:
         # Path of the directory containing the static assets.
-        path: dist/
+        path: dist/soerenlarsen/
         # Duration after which artifact will expire in days.
         # retention-days: # optional, default is 1
