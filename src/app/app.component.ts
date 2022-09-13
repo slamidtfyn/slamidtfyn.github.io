@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { environment } from '../environments/environment';
+import { Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'soerenlarsen';
+  constructor(titleService: Title) {
+    titleService.setTitle(this.title);
+  }
+
+  title = 'SØREN LARSEN | BLOG';
+  dev = !environment.production
 }

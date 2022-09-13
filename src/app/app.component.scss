@@ -1,0 +1,24 @@
+div.header {
+  display: flex;
+  background-image: url("/assets/pexels-pixabay-270348.jpg");
+  font-family: Roboto sans-serif;
+  height: 400px;
+  color: white;
+  font-size: 4em;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 20px 40px;
+}
+
+div.main {
+  display: flex;
+  padding: 50px;
+  .card {
+    border: solid dimgray 1px;
+    min-width: 25%;
+    min-height: 300px;
+    border-radius: 20px;
+    padding: 30px;
+  }
+
+}
