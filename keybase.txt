@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/slamidtfyn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.soerenlarsen.dk
+  * I am slamidtfyn (https://keybase.io/slamidtfyn) on keybase.
+  * I have a public key ASAsRsuyKbGFq6h1_yknYvy4l4x_n79gtaSMwxtrogFY9go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202c46cbb229b185aba875ff292762fcb8978c7f9fbf60b5a48cc31b6ba20158f60a",
+      "host": "keybase.io",
+      "kid": "01202c46cbb229b185aba875ff292762fcb8978c7f9fbf60b5a48cc31b6ba20158f60a",
+      "uid": "1c0934f293456de4c7b30ebb256c4a19",
+      "username": "slamidtfyn"
+    },
+    "merkle_root": {
+      "ctime": 1554407569,
+      "hash": "cfc9a0fb1bd0bfde1f20e0e69cae3d68358817a7c51adf0c52b0986265c95293933718a05ff9d3dd2d4666393df578918317ea71ab617628218415e9c8cc56d4",
+      "hash_meta": "02b7362a510c1d46bd5a0c260b8cc2f72cd1b539871dcf20b70e85e60d6b48b3",
+      "seqno": 5097795
+    },
+    "service": {
+      "entropy": "kMxf3/haSyS9tkS7EMoU+cJQ",
+      "hostname": "blog.soerenlarsen.dk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554407584,
+  "expire_in": 504576000,
+  "prev": "11d385ed963df34431ae79b4a12173fb2f612de6926ac02dd03974b55f6cc7e5",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLEbLsimxhauodf8pJ2L8uJeMf5+/YLWkjMMba6IBWPYKp3BheWxvYWTESpcCEsQgEdOF7ZY980Qxrnm0oSFz+y9hLeaSasAt0Dl0tV9sx+XEIC+eQui1BoJx0vXGHH0r0wmxA6AgOWdMVDRUMWVfV/shAgHCo3NpZ8RAYrRrX9JNYNfc65Fd5pn6agpiRzTmuTdQb5jkkycGK/JK3pSU6oqGo72PVnkvI7v+97L+ikWYJhyRxYpauz3zCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMiCHqT5OSBArw23elCzdjpVWqE/hFOO+HkMcTl7Q32Ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/slamidtfyn
+
+==================================================================
